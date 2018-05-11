@@ -1,5 +1,9 @@
 # ROS Master - Geometry
 
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+
 ROS Master is a plugin for the geometry zsh theme that briefly tells you what
 your ROS Master URI is. You might find this useful if you have multiple
 machines, like a local simulation machine and the remote actual machine.
@@ -30,3 +34,8 @@ $ cd geometry-ros-master && source plugin.zsh
 antigen theme geometry-zsh/geometry     #geometry first, then...
 antigen bundle the-mikedavis/geometry-ros-master
 ```
+
+## License
+
+This plugin is licensed under the 'Do What the Fuck You Want to Public Licence.'
+See `LICENSE.txt` for more information.
